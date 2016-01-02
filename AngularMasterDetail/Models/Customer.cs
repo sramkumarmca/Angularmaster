@@ -5,6 +5,7 @@ using System.Text;
 
 namespace AngularMasterDetail.Models
 {
+    //gggg
     public  class Customer
     {
         public string CustomerID { get; set; }
